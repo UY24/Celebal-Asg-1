@@ -1,0 +1,30 @@
+.header-bg{
+    padding: 2rem 10rem;
+    display: flex;
+    justify-content: flex-end;
+    min-width: 100vw;
+    min-height: 10vh;
+    background: transparent;
+}
+
+.navbar-bg{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.nav-link{
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.btn{
+    font-weight: 700;
+    border: none;
+    padding: 0.5rem 1rem;
+    color: white;
+    background-color:#F84646;
+    border-radius: 8px;
+    cursor: pointer;
+}
